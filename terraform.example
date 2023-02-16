@@ -1,0 +1,19 @@
+token="abc"
+owner="xyz"
+
+team = ["team1","team2","team3"]
+
+user = {
+    "123" = {
+        name = "123"
+        team  = ["member","","member"]
+    }
+     "456" = {
+        name = "456"
+        team  = ["member","member","member"]
+    }
+    "789" = {
+        name = "789"
+        team  = ["maintainer","maintainer","maintainer"]
+    }
+}
